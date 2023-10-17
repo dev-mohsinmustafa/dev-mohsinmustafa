@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="coding image" width="600" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
+<img align="right" alt="coding image" width="500" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 
 
 
