@@ -1,4 +1,5 @@
-![banner](https://github.com/dev-mohsinmustafa/dev-mohsinmustafa/assets/103858821/805ecdfb-fb55-41e6-8f62-8c37960c2a5b)
+![image](https://github.com/dev-mohsinmustafa/dev-mohsinmustafa/assets/103858821/da13cc40-f749-42f6-8a4d-3f21406f694d)
+
 
 <h1 align="center">Hi 👋, I'm Mohsin Mustafa</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan.</h3>
