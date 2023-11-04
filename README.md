@@ -1,4 +1,4 @@
-![portfolio](https://github.com/dev-mohsinmustafa/dev-mohsinmustafa/assets/103858821/3a72d47d-fba1-41e4-ac71-74876eec52ea)
+![portfolio](https://github.com/dev-mohsinmustafa/dev-mohsinmustafa/assets/103858821/39c10ee8-59c8-4f4b-8f57-cabb70fd7c3f)
 
 
 <h1 align="center">Hi 👋, I'm Mohsin Mustafa</h1>
